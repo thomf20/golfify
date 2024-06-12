@@ -5,7 +5,7 @@ VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Golfify.API", "Golfify.API.csproj", "{E5EB860F-CC0B-4E77-9FBC-3D806953A70A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Golfify.Core", "..\Golfify.Core\Golfify.Core.csproj", "{E9E23A55-603A-48BC-BA67-9E91F0302B00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Golfify.Core", "C:\Users\Køber\OneDrive\Golfify.Core\Golfify.Core.csproj", "{80DAFE34-3CE5-4815-8996-67E22C0A71D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{E5EB860F-CC0B-4E77-9FBC-3D806953A70A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5EB860F-CC0B-4E77-9FBC-3D806953A70A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5EB860F-CC0B-4E77-9FBC-3D806953A70A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E9E23A55-603A-48BC-BA67-9E91F0302B00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E9E23A55-603A-48BC-BA67-9E91F0302B00}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E9E23A55-603A-48BC-BA67-9E91F0302B00}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E9E23A55-603A-48BC-BA67-9E91F0302B00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80DAFE34-3CE5-4815-8996-67E22C0A71D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80DAFE34-3CE5-4815-8996-67E22C0A71D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80DAFE34-3CE5-4815-8996-67E22C0A71D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80DAFE34-3CE5-4815-8996-67E22C0A71D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

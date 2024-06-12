@@ -20,6 +20,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Golfify.Core\Golfify.Core.csproj" />
+    <ProjectReference Include="C:\Users\Køber\OneDrive\Golfify.Core\Golfify.Core.csproj" />
   </ItemGroup>
 
   <ItemGroup>
