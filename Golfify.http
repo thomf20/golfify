@@ -1,0 +1,6 @@
+@Golfify_HostAddress = http://localhost:5128
+
+GET {{Golfify_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

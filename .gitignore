@@ -1,0 +1,26 @@
+# .NET
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+Generated_Code/
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+.history/
+
+# Visual Studio
+.vs/
+
+# appsettings
+appsettings.Development.json
